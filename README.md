@@ -1,6 +1,6 @@
 # 👨‍💻 Data Analytics Portfolio
 
-Hi, ich bin Nils – Data Analyst mit Fokus auf SQL, Python (Grundkenntnisse) und Tableau.  
+Moin, ich bin Nils – Data Analyst mit Fokus auf SQL, Python (Grundkenntnisse) und Tableau.  
 Ich habe Erfahrung in der Analyse und Optimierung von Logistikprozessen sowie im Aufbau von Datenpipelines.
 
 ## 🔧 Skills
